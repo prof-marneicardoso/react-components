@@ -1,0 +1,18 @@
+
+:root {
+    /* Paleta de cores */
+    --cor-principal: #6767ff;
+    --cor-destaque: #ff2c64;
+    --cor1: #f9f9f9;
+    --cor2: #c5c5c5;
+    --cor3: #999999;
+    --cor4: #232323;
+}
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
